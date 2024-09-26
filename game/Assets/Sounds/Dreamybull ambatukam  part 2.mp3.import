@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cc5xbk7k47ue4"
+path="res://.godot/imported/Dreamybull ambatukam  part 2.mp3-f9d750dbef7e49531439df36a2794632.mp3str"
+
+[deps]
+
+source_file="res://Assets/Sounds/Dreamybull ambatukam  part 2.mp3"
+dest_files=["res://.godot/imported/Dreamybull ambatukam  part 2.mp3-f9d750dbef7e49531439df36a2794632.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
